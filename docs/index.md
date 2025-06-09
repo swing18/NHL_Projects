@@ -6,7 +6,7 @@ Welcome to my hockey analytics portfolio — a collection of projects that explo
 
 ## 📌 Project 1: NHL Player Clustering
 
-This project uses machine learning techniques to identify and visualize playstyle archetypes for NHL players based on deployment metrics.
+This project uses machine learning techniques to identify and visualize playstyle archetypes for NHL players based on deployment metrics. Note: Double click a cluster label in the legend to isolate it.
 
 - 📄 [Project Summary (PDF)](article2.pdf)
 - 📊 [Interactive Visualization – Defencemen](def_clusters_iso.html)
