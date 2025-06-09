@@ -1,6 +1,6 @@
 # 🏒 Stuart Wing: Hockey Analytics Portfolio
 
-Welcome to my hockey analytics portfolio — a collection of projects that explore player archetypes, clustering techniques, and performance narratives using data-driven methods.
+Welcome to my hockey analytics portfolio, a collection of projects that explore player archetypes, clustering techniques, and performance narratives using data-driven methods.
 
 ---
 
