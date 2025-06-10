@@ -11,7 +11,8 @@ This project uses machine learning techniques to identify and visualize playstyl
 - 📄 [Project Summary (PDF)](article2.pdf)
 - 📊 [Interactive Visualization – Defencemen](def_clusters_iso.html)
 - 📊 [Interactive Visualization – Forwards](fwd_clusters_iso.html)
-- 📓 [Analysis Notebook (Jupyter)](nhl_clusters.ipynb)
+- 📓 [View Notebook (HTML Snapshot)](nhl_clusters_notebook.html)
+- 📓 [Download Notebook (Jupyter)](nhl_clusters.ipynb)
 
 ---
 
