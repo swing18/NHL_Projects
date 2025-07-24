@@ -2,10 +2,11 @@
 
 Welcome to my hockey analytics portfolio, a collection of projects that explore player archetypes, clustering techniques, and performance narratives using data-driven methods.
 
+- 📄 [View Resume (PDF)](Stuart_Wing.pdf)
 ---
 
 ## 📌 Project 1: NHL Player Clustering
-
+*A data science experiment created September 2024*
 This project uses machine learning techniques to identify and visualize playstyle archetypes for NHL players based on deployment metrics. Note: Double click a cluster label in the legend to isolate it.
 
 - 📄 [Project Summary (PDF)](article2.pdf)
