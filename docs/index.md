@@ -6,7 +6,8 @@ Welcome to my hockey analytics portfolio, a collection of projects that explore 
 ---
 
 ## 📌 Project 1: NHL Player Clustering
-*A data science experiment created September 2024*
+*A data science project completed September 2024*
+
 This project uses machine learning techniques to identify and visualize playstyle archetypes for NHL players based on deployment metrics. Note: Double click a cluster label in the legend to isolate it.
 
 - 📄 [Project Summary (PDF)](article2.pdf)
